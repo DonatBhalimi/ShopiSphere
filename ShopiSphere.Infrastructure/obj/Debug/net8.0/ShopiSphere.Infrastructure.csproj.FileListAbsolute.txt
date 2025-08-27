@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Infrastructure\bin\Debug\net8.0\ShopiSphere.Infrastructure.deps.json
+C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Infrastructure\bin\Debug\net8.0\ShopiSphere.Infrastructure.dll
+C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Infrastructure\bin\Debug\net8.0\ShopiSphere.Infrastructure.pdb
+C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Infrastructure\bin\Debug\net8.0\ShopiSphere.Domain.dll
+C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Infrastructure\bin\Debug\net8.0\ShopiSphere.Domain.pdb
+C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Infrastructure\obj\Debug\net8.0\ShopiSphere.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Infrastructure\obj\Debug\net8.0\ShopiSphere.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Infrastructure\obj\Debug\net8.0\ShopiSphere.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Infrastructure\obj\Debug\net8.0\ShopiSphere.Infrastructure.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Infrastructure\obj\Debug\net8.0\ShopiSphere.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Infrastructure\obj\Debug\net8.0\ShopiSph.43644D9A.Up2Date
+C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Infrastructure\obj\Debug\net8.0\ShopiSphere.Infrastructure.dll
+C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Infrastructure\obj\Debug\net8.0\refint\ShopiSphere.Infrastructure.dll
+C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Infrastructure\obj\Debug\net8.0\ShopiSphere.Infrastructure.pdb
+C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Infrastructure\obj\Debug\net8.0\ref\ShopiSphere.Infrastructure.dll

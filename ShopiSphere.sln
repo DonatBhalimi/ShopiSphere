@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopiSphere.Web", "ShopiSphere.Web\ShopiSphere.Web.csproj", "{DBA8F023-EC1B-4745-843D-A249C2E35616}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopiSphere.API", "WebApplication1\ShopiSphere.API.csproj", "{A24E2BE3-DD15-4BDB-BDAB-8D3D85D90FEC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{500B2792-3BB7-4B4B-9235-336FA0C72CB7} = {500B2792-3BB7-4B4B-9235-336FA0C72CB7}
+		{72A5B2AC-7D08-4AB1-B0CB-E149B869C846} = {72A5B2AC-7D08-4AB1-B0CB-E149B869C846}
+		{DD24B62C-C8F1-46A9-9732-4928892952DE} = {DD24B62C-C8F1-46A9-9732-4928892952DE}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopiSphere.Domain", "ShopiSphere.Domain\ShopiSphere.Domain.csproj", "{72A5B2AC-7D08-4AB1-B0CB-E149B869C846}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopiSphere.Application", "ShopiSphere.Application\ShopiSphere.Application.csproj", "{DD24B62C-C8F1-46A9-9732-4928892952DE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{72A5B2AC-7D08-4AB1-B0CB-E149B869C846} = {72A5B2AC-7D08-4AB1-B0CB-E149B869C846}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopiSphere.Infrastructure", "ShopiSphere.Infrastructure\ShopiSphere.Infrastructure.csproj", "{500B2792-3BB7-4B4B-9235-336FA0C72CB7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{72A5B2AC-7D08-4AB1-B0CB-E149B869C846} = {72A5B2AC-7D08-4AB1-B0CB-E149B869C846}
+		{DD24B62C-C8F1-46A9-9732-4928892952DE} = {DD24B62C-C8F1-46A9-9732-4928892952DE}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBA8F023-EC1B-4745-843D-A249C2E35616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA8F023-EC1B-4745-843D-A249C2E35616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA8F023-EC1B-4745-843D-A249C2E35616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA8F023-EC1B-4745-843D-A249C2E35616}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A24E2BE3-DD15-4BDB-BDAB-8D3D85D90FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24E2BE3-DD15-4BDB-BDAB-8D3D85D90FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24E2BE3-DD15-4BDB-BDAB-8D3D85D90FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24E2BE3-DD15-4BDB-BDAB-8D3D85D90FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72A5B2AC-7D08-4AB1-B0CB-E149B869C846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A5B2AC-7D08-4AB1-B0CB-E149B869C846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A5B2AC-7D08-4AB1-B0CB-E149B869C846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A5B2AC-7D08-4AB1-B0CB-E149B869C846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD24B62C-C8F1-46A9-9732-4928892952DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD24B62C-C8F1-46A9-9732-4928892952DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD24B62C-C8F1-46A9-9732-4928892952DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD24B62C-C8F1-46A9-9732-4928892952DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{500B2792-3BB7-4B4B-9235-336FA0C72CB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500B2792-3BB7-4B4B-9235-336FA0C72CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500B2792-3BB7-4B4B-9235-336FA0C72CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500B2792-3BB7-4B4B-9235-336FA0C72CB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

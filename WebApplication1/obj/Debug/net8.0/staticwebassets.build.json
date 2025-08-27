@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "k/B+m15OueAHIDcj0zRUGi6+tIhWXr4RN4XuhGsF1BI=",
+  "Source": "ShopiSphere.API",
+  "BasePath": "_content/ShopiSphere.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "yq0wrFHx+2c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\ShopiSphere.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\stripe.net\\48.4.0\\stripe.net.48.4.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
