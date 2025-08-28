@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ShopiSphere.Application\ShopiSphere.Application.csproj" />
     <ProjectReference Include="..\ShopiSphere.Domain\ShopiSphere.Domain.csproj" />
   </ItemGroup>
 

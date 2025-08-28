@@ -1,5 +1,6 @@
 ﻿using ShopiSphere.Application.DTO;
 using ShopiSphere.Application.Interface;
+using ShopiSphere.Application.Interfaces.Services;
 using ShopiSphere.Domain.Entities;
 using System;
 using System.Collections.Generic;
@@ -9,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace ShopiSphere.Application.Implementation
 {
-    public class ProductService
+    public class ProductService : IProductService
     {
         private readonly IProductRepository _productRepository;
         public ProductService(IProductRepository productRepository)
@@ -48,6 +49,11 @@ namespace ShopiSphere.Application.Implementation
         public async Task AddAsync(Product product)
         {
             await _productRepository.AddAsync(product);
+            await _productRepository.SaveChangesAsync();
+        }
+        public async Task UpdateAsync(Product product)
+        {
+            await _productRepository.UpdateAsync(product);
             await _productRepository.SaveChangesAsync();
         }
         public async Task DeleteAsync(Guid id)

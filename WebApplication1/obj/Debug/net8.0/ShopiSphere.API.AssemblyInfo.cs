@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShopiSphere.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1aa7fcfa46b59b54dcd60fe31b4aa009437bcdb3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShopiSphere.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShopiSphere.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

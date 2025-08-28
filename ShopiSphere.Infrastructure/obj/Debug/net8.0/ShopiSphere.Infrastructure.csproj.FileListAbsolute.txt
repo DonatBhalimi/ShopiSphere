@@ -13,3 +13,6 @@ C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Infrastructure\obj\Debug\net8
 C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Infrastructure\obj\Debug\net8.0\refint\ShopiSphere.Infrastructure.dll
 C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Infrastructure\obj\Debug\net8.0\ShopiSphere.Infrastructure.pdb
 C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Infrastructure\obj\Debug\net8.0\ref\ShopiSphere.Infrastructure.dll
+C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Infrastructure\obj\Debug\net8.0\ShopiSphere.Infrastructure.sourcelink.json
+C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Infrastructure\bin\Debug\net8.0\ShopiSphere.Application.dll
+C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Infrastructure\bin\Debug\net8.0\ShopiSphere.Application.pdb

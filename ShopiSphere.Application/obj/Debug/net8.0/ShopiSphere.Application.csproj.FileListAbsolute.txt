@@ -13,3 +13,4 @@ C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Application\obj\Debug\net8.0\
 C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Application\bin\Debug\net8.0\ShopiSphere.Domain.dll
 C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Application\bin\Debug\net8.0\ShopiSphere.Domain.pdb
 C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Application\obj\Debug\net8.0\ShopiSph.69139636.Up2Date
+C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Application\obj\Debug\net8.0\ShopiSphere.Application.sourcelink.json
