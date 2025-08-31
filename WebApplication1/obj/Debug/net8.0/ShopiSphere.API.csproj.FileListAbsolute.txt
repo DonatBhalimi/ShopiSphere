@@ -170,3 +170,6 @@ C:\Users\Acer\source\repos\ShopiSphere\WebApplication1\bin\Debug\net8.0\Newtonso
 C:\Users\Acer\source\repos\ShopiSphere\WebApplication1\bin\Debug\net8.0\Stripe.net.dll
 C:\Users\Acer\source\repos\ShopiSphere\WebApplication1\bin\Debug\net8.0\ShopiSphere.Application.dll
 C:\Users\Acer\source\repos\ShopiSphere\WebApplication1\bin\Debug\net8.0\ShopiSphere.Application.pdb
+C:\Users\Acer\source\repos\ShopiSphere\WebApplication1\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\Acer\source\repos\ShopiSphere\WebApplication1\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Acer\source\repos\ShopiSphere\WebApplication1\bin\Debug\net8.0\System.IO.Packaging.dll

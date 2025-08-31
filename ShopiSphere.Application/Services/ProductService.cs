@@ -1,6 +1,6 @@
 ﻿using ShopiSphere.Application.DTO;
-using ShopiSphere.Application.Interface;
-using ShopiSphere.Application.Interfaces.Services;
+using ShopiSphere.Application.Interface.Repositories;
+using ShopiSphere.Application.Interface.Services;
 using ShopiSphere.Domain.Entities;
 using System;
 using System.Collections.Generic;
@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShopiSphere.Application.Implementation
+namespace ShopiSphere.Application.Services
 {
     public class ProductService : IProductService
     {

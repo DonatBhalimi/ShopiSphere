@@ -3,60 +3,100 @@
   "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A24E2BE3-DD15-4BDB-BDAB-8D3D85D90FEC}|WebApplication1\\ShopiSphere.API.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\webapplication1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A24E2BE3-DD15-4BDB-BDAB-8D3D85D90FEC}|WebApplication1\\ShopiSphere.API.csproj|solutionrelative:webapplication1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A24E2BE3-DD15-4BDB-BDAB-8D3D85D90FEC}|WebApplication1\\ShopiSphere.API.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A24E2BE3-DD15-4BDB-BDAB-8D3D85D90FEC}|WebApplication1\\ShopiSphere.API.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{500B2792-3BB7-4B4B-9235-336FA0C72CB7}|ShopiSphere.Infrastructure\\ShopiSphere.Infrastructure.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.infrastructure\\repositories\\productvariantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{500B2792-3BB7-4B4B-9235-336FA0C72CB7}|ShopiSphere.Infrastructure\\ShopiSphere.Infrastructure.csproj|solutionrelative:shopisphere.infrastructure\\repositories\\productvariantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{500B2792-3BB7-4B4B-9235-336FA0C72CB7}|ShopiSphere.Infrastructure\\ShopiSphere.Infrastructure.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500B2792-3BB7-4B4B-9235-336FA0C72CB7}|ShopiSphere.Infrastructure\\ShopiSphere.Infrastructure.csproj|solutionrelative:shopisphere.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72A5B2AC-7D08-4AB1-B0CB-E149B869C846}|ShopiSphere.Domain\\ShopiSphere.Domain.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.domain\\entities\\productvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72A5B2AC-7D08-4AB1-B0CB-E149B869C846}|ShopiSphere.Domain\\ShopiSphere.Domain.csproj|solutionrelative:shopisphere.domain\\entities\\productvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.application\\interface\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|solutionrelative:shopisphere.application\\interface\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.application\\services\\productvariantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|solutionrelative:shopisphere.application\\services\\productvariantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{500B2792-3BB7-4B4B-9235-336FA0C72CB7}|ShopiSphere.Infrastructure\\ShopiSphere.Infrastructure.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.infrastructure\\persistance\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500B2792-3BB7-4B4B-9235-336FA0C72CB7}|ShopiSphere.Infrastructure\\ShopiSphere.Infrastructure.csproj|solutionrelative:shopisphere.infrastructure\\persistance\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.application\\interface\\iproductvariantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|solutionrelative:shopisphere.application\\interface\\iproductvariantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A24E2BE3-DD15-4BDB-BDAB-8D3D85D90FEC}|WebApplication1\\ShopiSphere.API.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\webapplication1\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24E2BE3-DD15-4BDB-BDAB-8D3D85D90FEC}|WebApplication1\\ShopiSphere.API.csproj|solutionrelative:webapplication1\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.application\\interface\\iproductvariantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|solutionrelative:shopisphere.application\\interface\\iproductvariantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72A5B2AC-7D08-4AB1-B0CB-E149B869C846}|ShopiSphere.Domain\\ShopiSphere.Domain.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A5B2AC-7D08-4AB1-B0CB-E149B869C846}|ShopiSphere.Domain\\ShopiSphere.Domain.csproj|solutionrelative:shopisphere.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.application\\dto\\productvariantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|solutionrelative:shopisphere.application\\dto\\productvariantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A24E2BE3-DD15-4BDB-BDAB-8D3D85D90FEC}|WebApplication1\\ShopiSphere.API.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\webapplication1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24E2BE3-DD15-4BDB-BDAB-8D3D85D90FEC}|WebApplication1\\ShopiSphere.API.csproj|solutionrelative:webapplication1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.application\\interface\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|solutionrelative:shopisphere.application\\interface\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|solutionrelative:shopisphere.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|solutionrelative:shopisphere.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.application\\interface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|solutionrelative:shopisphere.application\\interface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.application\\services\\productvariantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|solutionrelative:shopisphere.application\\services\\productvariantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.application\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|solutionrelative:shopisphere.application\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.application\\interface\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|solutionrelative:shopisphere.application\\interface\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.application\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|solutionrelative:shopisphere.application\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.application\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|solutionrelative:shopisphere.application\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{500B2792-3BB7-4B4B-9235-336FA0C72CB7}|ShopiSphere.Infrastructure\\ShopiSphere.Infrastructure.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{500B2792-3BB7-4B4B-9235-336FA0C72CB7}|ShopiSphere.Infrastructure\\ShopiSphere.Infrastructure.csproj|solutionrelative:shopisphere.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|solutionrelative:shopisphere.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{500B2792-3BB7-4B4B-9235-336FA0C72CB7}|ShopiSphere.Infrastructure\\ShopiSphere.Infrastructure.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.infrastructure\\persistance\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{500B2792-3BB7-4B4B-9235-336FA0C72CB7}|ShopiSphere.Infrastructure\\ShopiSphere.Infrastructure.csproj|solutionrelative:shopisphere.infrastructure\\persistance\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.application\\interface\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|solutionrelative:shopisphere.application\\interface\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A5B2AC-7D08-4AB1-B0CB-E149B869C846}|ShopiSphere.Domain\\ShopiSphere.Domain.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A5B2AC-7D08-4AB1-B0CB-E149B869C846}|ShopiSphere.Domain\\ShopiSphere.Domain.csproj|solutionrelative:shopisphere.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A5B2AC-7D08-4AB1-B0CB-E149B869C846}|ShopiSphere.Domain\\ShopiSphere.Domain.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.domain\\entities\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A5B2AC-7D08-4AB1-B0CB-E149B869C846}|ShopiSphere.Domain\\ShopiSphere.Domain.csproj|solutionrelative:shopisphere.domain\\entities\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500B2792-3BB7-4B4B-9235-336FA0C72CB7}|ShopiSphere.Infrastructure\\ShopiSphere.Infrastructure.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.infrastructure\\repositories\\productvariantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500B2792-3BB7-4B4B-9235-336FA0C72CB7}|ShopiSphere.Infrastructure\\ShopiSphere.Infrastructure.csproj|solutionrelative:shopisphere.infrastructure\\repositories\\productvariantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.application\\interface\\services\\iproductvariantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|solutionrelative:shopisphere.application\\interface\\services\\iproductvariantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.application\\interface\\repositories\\iproductvariantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|solutionrelative:shopisphere.application\\interface\\repositories\\iproductvariantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A5B2AC-7D08-4AB1-B0CB-E149B869C846}|ShopiSphere.Domain\\ShopiSphere.Domain.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.domain\\entities\\productvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A5B2AC-7D08-4AB1-B0CB-E149B869C846}|ShopiSphere.Domain\\ShopiSphere.Domain.csproj|solutionrelative:shopisphere.domain\\entities\\productvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.application\\dto\\productvariantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|solutionrelative:shopisphere.application\\dto\\productvariantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500B2792-3BB7-4B4B-9235-336FA0C72CB7}|ShopiSphere.Infrastructure\\ShopiSphere.Infrastructure.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500B2792-3BB7-4B4B-9235-336FA0C72CB7}|ShopiSphere.Infrastructure\\ShopiSphere.Infrastructure.csproj|solutionrelative:shopisphere.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A24E2BE3-DD15-4BDB-BDAB-8D3D85D90FEC}|WebApplication1\\ShopiSphere.API.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,16 +115,8 @@
       "RelativeMoniker": "D:0:0:{A24E2BE3-DD15-4BDB-BDAB-8D3D85D90FEC}|WebApplication1\\ShopiSphere.API.csproj|solutionrelative:webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72A5B2AC-7D08-4AB1-B0CB-E149B869C846}|ShopiSphere.Domain\\ShopiSphere.Domain.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72A5B2AC-7D08-4AB1-B0CB-E149B869C846}|ShopiSphere.Domain\\ShopiSphere.Domain.csproj|solutionrelative:shopisphere.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{500B2792-3BB7-4B4B-9235-336FA0C72CB7}|ShopiSphere.Infrastructure\\ShopiSphere.Infrastructure.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{500B2792-3BB7-4B4B-9235-336FA0C72CB7}|ShopiSphere.Infrastructure\\ShopiSphere.Infrastructure.csproj|solutionrelative:shopisphere.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD24B62C-C8F1-46A9-9732-4928892952DE}|ShopiSphere.Application\\ShopiSphere.Application.csproj|solutionrelative:shopisphere.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72A5B2AC-7D08-4AB1-B0CB-E149B869C846}|ShopiSphere.Domain\\ShopiSphere.Domain.csproj|c:\\users\\acer\\source\\repos\\shopisphere\\shopisphere.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -138,130 +170,130 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductVariant.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Domain\\Entities\\ProductVariant.cs",
-              "RelativeDocumentMoniker": "ShopiSphere.Domain\\Entities\\ProductVariant.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Domain\\Entities\\ProductVariant.cs",
-              "RelativeToolTip": "ShopiSphere.Domain\\Entities\\ProductVariant.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA0AAAAmAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "ShopiSphere.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "ShopiSphere.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T12:37:42.725Z",
+              "WhenOpened": "2025-08-31T19:42:23.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductVariantRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Infrastructure\\Repositories\\ProductVariantRepository.cs",
-              "RelativeDocumentMoniker": "ShopiSphere.Infrastructure\\Repositories\\ProductVariantRepository.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Infrastructure\\Repositories\\ProductVariantRepository.cs",
-              "RelativeToolTip": "ShopiSphere.Infrastructure\\Repositories\\ProductVariantRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAUwCwAAAAqAAAAAAAAAA==",
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Interface\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "ShopiSphere.Application\\Interface\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Interface\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "ShopiSphere.Application\\Interface\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T18:17:20.402Z",
+              "WhenOpened": "2025-08-31T12:01:27.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Infrastructure\\Persistance\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ShopiSphere.Infrastructure\\Persistance\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Infrastructure\\Persistance\\AppDbContext.cs",
+              "RelativeToolTip": "ShopiSphere.Infrastructure\\Persistance\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T12:48:44.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
               "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T12:55:56.065Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\WebApplication1\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\WebApplication1\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T12:36:15.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "ShopiSphere.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "ShopiSphere.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:45:52.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\WebApplication1\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\WebApplication1\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T13:18:51.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductVariantService.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Services\\ProductVariantService.cs",
-              "RelativeDocumentMoniker": "ShopiSphere.Application\\Services\\ProductVariantService.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Services\\ProductVariantService.cs",
-              "RelativeToolTip": "ShopiSphere.Application\\Services\\ProductVariantService.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA5wDAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T18:09:09.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IProductVariantService.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Interface\\IProductVariantService.cs",
-              "RelativeDocumentMoniker": "ShopiSphere.Application\\Interface\\IProductVariantService.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Interface\\IProductVariantService.cs",
-              "RelativeToolTip": "ShopiSphere.Application\\Interface\\IProductVariantService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAB8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T17:50:58.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IProductVariantRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Interface\\IProductVariantRepository.cs",
-              "RelativeDocumentMoniker": "ShopiSphere.Application\\Interface\\IProductVariantRepository.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Interface\\IProductVariantRepository.cs",
-              "RelativeToolTip": "ShopiSphere.Application\\Interface\\IProductVariantRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T17:46:38.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ProductVariantDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\DTO\\ProductVariantDTO.cs",
-              "RelativeDocumentMoniker": "ShopiSphere.Application\\DTO\\ProductVariantDTO.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\DTO\\ProductVariantDTO.cs",
-              "RelativeToolTip": "ShopiSphere.Application\\DTO\\ProductVariantDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Interface\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "ShopiSphere.Application\\Interface\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Interface\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "ShopiSphere.Application\\Interface\\Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T18:04:13.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Interface\\IProductService.cs",
-              "RelativeDocumentMoniker": "ShopiSphere.Application\\Interface\\IProductService.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Interface\\IProductService.cs",
-              "RelativeToolTip": "ShopiSphere.Application\\Interface\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T14:30:31.179Z",
+              "WhenOpened": "2025-08-31T12:05:01.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "ShopiSphere.Application\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Services\\CategoryService.cs",
+              "RelativeToolTip": "ShopiSphere.Application\\Services\\CategoryService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T12:11:50.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "ShopiSphere.Application\\Services\\ProductService.cs",
               "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Services\\ProductService.cs",
               "RelativeToolTip": "ShopiSphere.Application\\Services\\ProductService.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowDkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T14:19:37.82Z",
               "EditorCaption": ""
@@ -269,19 +301,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Interface\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "ShopiSphere.Application\\Interface\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Interface\\IProductRepository.cs",
-              "RelativeToolTip": "ShopiSphere.Application\\Interface\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Title": "ProductVariantService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Services\\ProductVariantService.cs",
+              "RelativeDocumentMoniker": "ShopiSphere.Application\\Services\\ProductVariantService.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Services\\ProductVariantService.cs",
+              "RelativeToolTip": "ShopiSphere.Application\\Services\\ProductVariantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T13:52:05.144Z",
+              "WhenOpened": "2025-08-28T18:09:09.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Interface\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "ShopiSphere.Application\\Interface\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Interface\\Services\\IProductService.cs",
+              "RelativeToolTip": "ShopiSphere.Application\\Interface\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:30:31.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\DTO\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "ShopiSphere.Application\\DTO\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\DTO\\CategoryDTO.cs",
+              "RelativeToolTip": "ShopiSphere.Application\\DTO\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:59:50.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\DTO\\ProductDTO.cs",
               "RelativeDocumentMoniker": "ShopiSphere.Application\\DTO\\ProductDTO.cs",
@@ -294,137 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Infrastructure\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "ShopiSphere.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Infrastructure\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "ShopiSphere.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T15:40:59.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\WebApplication1\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\WebApplication1\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T13:18:29.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Infrastructure\\Persistance\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ShopiSphere.Infrastructure\\Persistance\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Infrastructure\\Persistance\\AppDbContext.cs",
-              "RelativeToolTip": "ShopiSphere.Infrastructure\\Persistance\\AppDbContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA2wA8AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T12:48:44.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "20250827131753_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Infrastructure\\Migrations\\20250827131753_InitialCreate.cs",
-              "RelativeDocumentMoniker": "ShopiSphere.Infrastructure\\Migrations\\20250827131753_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Infrastructure\\Migrations\\20250827131753_InitialCreate.cs",
-              "RelativeToolTip": "ShopiSphere.Infrastructure\\Migrations\\20250827131753_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T13:17:54.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AppDbContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Infrastructure\\Persistance\\AppDbContextFactory.cs",
-              "RelativeDocumentMoniker": "ShopiSphere.Infrastructure\\Persistance\\AppDbContextFactory.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Infrastructure\\Persistance\\AppDbContextFactory.cs",
-              "RelativeToolTip": "ShopiSphere.Infrastructure\\Persistance\\AppDbContextFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T13:14:19.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ShopiSphere.API.csproj",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\WebApplication1\\ShopiSphere.API.csproj",
-              "RelativeDocumentMoniker": "WebApplication1\\ShopiSphere.API.csproj",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\WebApplication1\\ShopiSphere.API.csproj",
-              "RelativeToolTip": "WebApplication1\\ShopiSphere.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-27T12:17:56.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\WebApplication1\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\WebApplication1\\appsettings.json",
-              "RelativeToolTip": "WebApplication1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-27T12:58:02.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\WebApplication1\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "WebApplication1\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\WebApplication1\\appsettings.Development.json",
-              "RelativeToolTip": "WebApplication1\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-27T12:58:01.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "ShopiSphere.Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "ShopiSphere.Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T12:27:27.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "ShopiSphere.Infrastructure\\Class1.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "ShopiSphere.Infrastructure\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T12:19:23.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Class1.cs",
               "RelativeDocumentMoniker": "ShopiSphere.Application\\Class1.cs",
@@ -437,7 +365,206 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Domain\\Entities\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "ShopiSphere.Domain\\Entities\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Domain\\Entities\\ProductCategory.cs",
+              "RelativeToolTip": "ShopiSphere.Domain\\Entities\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:47:06.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Interface\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ShopiSphere.Application\\Interface\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Interface\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "ShopiSphere.Application\\Interface\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T13:52:05.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ShopiSphere.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "ShopiSphere.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T12:27:27.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProductVariantService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Interface\\Services\\IProductVariantService.cs",
+              "RelativeDocumentMoniker": "ShopiSphere.Application\\Interface\\Services\\IProductVariantService.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Interface\\Services\\IProductVariantService.cs",
+              "RelativeToolTip": "ShopiSphere.Application\\Interface\\Services\\IProductVariantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:50:58.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductVariantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Infrastructure\\Repositories\\ProductVariantRepository.cs",
+              "RelativeDocumentMoniker": "ShopiSphere.Infrastructure\\Repositories\\ProductVariantRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Infrastructure\\Repositories\\ProductVariantRepository.cs",
+              "RelativeToolTip": "ShopiSphere.Infrastructure\\Repositories\\ProductVariantRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwCwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T18:17:20.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProductVariantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Interface\\Repositories\\IProductVariantRepository.cs",
+              "RelativeDocumentMoniker": "ShopiSphere.Application\\Interface\\Repositories\\IProductVariantRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\Interface\\Repositories\\IProductVariantRepository.cs",
+              "RelativeToolTip": "ShopiSphere.Application\\Interface\\Repositories\\IProductVariantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:46:38.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 21,
+              "Title": "ProductVariant.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Domain\\Entities\\ProductVariant.cs",
+              "RelativeDocumentMoniker": "ShopiSphere.Domain\\Entities\\ProductVariant.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Domain\\Entities\\ProductVariant.cs",
+              "RelativeToolTip": "ShopiSphere.Domain\\Entities\\ProductVariant.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T12:37:42.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductVariantDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\DTO\\ProductVariantDTO.cs",
+              "RelativeDocumentMoniker": "ShopiSphere.Application\\DTO\\ProductVariantDTO.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Application\\DTO\\ProductVariantDTO.cs",
+              "RelativeToolTip": "ShopiSphere.Application\\DTO\\ProductVariantDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T18:04:13.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ShopiSphere.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ShopiSphere.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T15:40:59.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T13:18:29.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250827131753_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Infrastructure\\Migrations\\20250827131753_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ShopiSphere.Infrastructure\\Migrations\\20250827131753_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Infrastructure\\Migrations\\20250827131753_InitialCreate.cs",
+              "RelativeToolTip": "ShopiSphere.Infrastructure\\Migrations\\20250827131753_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T13:17:54.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Infrastructure\\Persistance\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "ShopiSphere.Infrastructure\\Persistance\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Infrastructure\\Persistance\\AppDbContextFactory.cs",
+              "RelativeToolTip": "ShopiSphere.Infrastructure\\Persistance\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T13:14:19.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ShopiSphere.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\WebApplication1\\ShopiSphere.API.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\ShopiSphere.API.csproj",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\WebApplication1\\ShopiSphere.API.csproj",
+              "RelativeToolTip": "WebApplication1\\ShopiSphere.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-27T12:17:56.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-27T12:58:02.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\WebApplication1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\WebApplication1\\appsettings.Development.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-27T12:58:01.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "ShopiSphere.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "ShopiSphere.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T12:19:23.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "ShopiSphere.Domain\\Class1.cs",
@@ -445,12 +572,11 @@
               "RelativeToolTip": "ShopiSphere.Domain\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T12:18:43.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T12:18:43.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\ShopiSphere\\ShopiSphere.Web\\Class1.cs",
               "RelativeDocumentMoniker": "ShopiSphere.Web\\Class1.cs",
@@ -458,8 +584,7 @@
               "RelativeToolTip": "ShopiSphere.Web\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T12:15:36.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T12:15:36.165Z"
             }
           ]
         }

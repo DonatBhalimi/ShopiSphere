@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using ShopiSphere.Application.Interfaces.Services;
+using ShopiSphere.Application.Interface.Services;
 using ShopiSphere.Domain.Entities;
 using ShopiSphere.Infrastructure.Persistance;
 

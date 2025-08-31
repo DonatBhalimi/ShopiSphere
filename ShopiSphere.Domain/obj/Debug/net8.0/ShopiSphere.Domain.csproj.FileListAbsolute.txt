@@ -9,3 +9,4 @@ C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Domain\obj\Debug\net8.0\Shopi
 C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Domain\obj\Debug\net8.0\refint\ShopiSphere.Domain.dll
 C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Domain\obj\Debug\net8.0\ShopiSphere.Domain.pdb
 C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Domain\obj\Debug\net8.0\ref\ShopiSphere.Domain.dll
+C:\Users\Acer\source\repos\ShopiSphere\ShopiSphere.Domain\obj\Debug\net8.0\ShopiSphere.Domain.sourcelink.json

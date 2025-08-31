@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using ShopiSphere.Application.Interface;
+using ShopiSphere.Application.Interface.Repositories;
 using ShopiSphere.Domain.Entities;
 using ShopiSphere.Infrastructure.Persistance;
 using System;

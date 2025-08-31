@@ -15,5 +15,6 @@ namespace ShopiSphere.Domain.Entities
         public DateTime CreateAt { get; set; } = DateTime.UtcNow;
         public DateTime UpdateAt { get; set; }
         public ICollection<ProductVariant> Variants { get; set; }= new List<ProductVariant>();
+        public ICollection<ProductCategory> ProductCategories { get; set; } = new List<ProductCategory>();
     }
 }

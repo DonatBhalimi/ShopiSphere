@@ -1,5 +1,6 @@
 ﻿using ShopiSphere.Application.DTO;
-using ShopiSphere.Application.Interface;
+using ShopiSphere.Application.Interface.Repositories;
+using ShopiSphere.Application.Interface.Services;
 using ShopiSphere.Domain.Entities;
 using System;
 using System.Collections.Generic;
