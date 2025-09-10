@@ -15,6 +15,10 @@ namespace ShopiSphere.Infrastructure.Persistance
         public DbSet<ProductVariant> ProductVariant => Set<ProductVariant>();
         public DbSet<Category> Categories => Set<Category>();
         public DbSet<ProductCategory> ProductCategories => Set<ProductCategory>();
+        public DbSet<Cart> Carts => Set<Cart>();
+        public DbSet<CartItem> CartItems => Set<CartItem>();
+        public DbSet<Order> Orders => Set<Order>();
+        public DbSet<OrderItem> OrderItems => Set<OrderItem>();
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -50,6 +54,23 @@ namespace ShopiSphere.Infrastructure.Persistance
                 .WithMany(c => c.ProductCategories)
                 .HasForeignKey(pc => pc.CategoryId);
 
+            modelBuilder.Entity<Cart>()
+                .HasMany(c=> c.Items)
+                .WithOne(i => i.Cart)
+                .HasForeignKey(i=> i.CartId);
+
+            modelBuilder.Entity<CartItem>()
+                .Property(i => i.Quantity)
+                .HasDefaultValue(1);
+            
+            modelBuilder.Entity<Order>()
+                .HasMany(o => o.Items)
+                .WithOne(i => i.Order)
+                .HasForeignKey(i => i.OrderId);
+
+            modelBuilder.Entity<OrderItem>()
+                .Property (i => i.Quantity)
+                .HasDefaultValue(1);
         }
     }
 }

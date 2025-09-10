@@ -22,6 +22,31 @@ namespace ShopiSphere.Infrastructure.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("ShopiSphere.Domain.Entities.Category", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Description")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Slug")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("Slug")
+                        .IsUnique();
+
+                    b.ToTable("Categories");
+                });
+
             modelBuilder.Entity("ShopiSphere.Domain.Entities.Product", b =>
                 {
                     b.Property<Guid>("Id")
@@ -51,6 +76,21 @@ namespace ShopiSphere.Infrastructure.Migrations
                         .IsUnique();
 
                     b.ToTable("Product");
+                });
+
+            modelBuilder.Entity("ShopiSphere.Domain.Entities.ProductCategory", b =>
+                {
+                    b.Property<Guid>("ProductId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid>("CategoryId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("ProductId", "CategoryId");
+
+                    b.HasIndex("CategoryId");
+
+                    b.ToTable("ProductCategories");
                 });
 
             modelBuilder.Entity("ShopiSphere.Domain.Entities.ProductVariant", b =>
@@ -89,6 +129,25 @@ namespace ShopiSphere.Infrastructure.Migrations
                     b.ToTable("ProductVariant");
                 });
 
+            modelBuilder.Entity("ShopiSphere.Domain.Entities.ProductCategory", b =>
+                {
+                    b.HasOne("ShopiSphere.Domain.Entities.Category", "Category")
+                        .WithMany("ProductCategories")
+                        .HasForeignKey("CategoryId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("ShopiSphere.Domain.Entities.Product", "Product")
+                        .WithMany("ProductCategories")
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Category");
+
+                    b.Navigation("Product");
+                });
+
             modelBuilder.Entity("ShopiSphere.Domain.Entities.ProductVariant", b =>
                 {
                     b.HasOne("ShopiSphere.Domain.Entities.Product", "Product")
@@ -100,8 +159,15 @@ namespace ShopiSphere.Infrastructure.Migrations
                     b.Navigation("Product");
                 });
 
+            modelBuilder.Entity("ShopiSphere.Domain.Entities.Category", b =>
+                {
+                    b.Navigation("ProductCategories");
+                });
+
             modelBuilder.Entity("ShopiSphere.Domain.Entities.Product", b =>
                 {
+                    b.Navigation("ProductCategories");
+
                     b.Navigation("Variants");
                 });
 #pragma warning restore 612, 618
