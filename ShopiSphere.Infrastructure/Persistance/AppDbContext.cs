@@ -19,6 +19,7 @@ namespace ShopiSphere.Infrastructure.Persistance
         public DbSet<CartItem> CartItems => Set<CartItem>();
         public DbSet<Order> Orders => Set<Order>();
         public DbSet<OrderItem> OrderItems => Set<OrderItem>();
+        public DbSet<Payment> Payments => Set<Payment>();
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -71,6 +72,11 @@ namespace ShopiSphere.Infrastructure.Persistance
             modelBuilder.Entity<OrderItem>()
                 .Property (i => i.Quantity)
                 .HasDefaultValue(1);
+            
+            modelBuilder.Entity<Payment>()
+                .HasOne(p => p.Order)
+                .WithMany(o => o.Payments)
+                .HasForeignKey(p => p.OrderId);
         }
     }
 }
