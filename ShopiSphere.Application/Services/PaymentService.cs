@@ -6,8 +6,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Stripe;
-using Stripe.Checkout;
 using Microsoft.Extensions.Configuration;
+using Stripe.Checkout;
 namespace ShopiSphere.Application.Services
 {
     public class PaymentService : IPaymentService
@@ -22,7 +22,7 @@ namespace ShopiSphere.Application.Services
             _paymentRepository = paymentRepository;
             _orderRepository = orderRepository;
             _secretKey = cfg["Stripe:SecretKey"];
-            _webhookSecret = cfg["Stripe: WebHookSecret"];
+            _webhookSecret = cfg["Stripe: WebhookSecret"];
             StripeConfiguration.ApiKey = _secretKey;
         }
 
@@ -50,7 +50,7 @@ namespace ShopiSphere.Application.Services
         public async Task HandleStripeWebhookAsync(string payload, string signatureHeader)
         {
             var ev = EventUtility.ConstructEvent(payload, signatureHeader, _webhookSecret);
-            if (ev.Type == Events.PaymentIntentSucceeded)
+            if (ev.Type == "payment_intent.succeeded")
             {
                 var pi = (PaymentIntent)ev.Data.Object;
                 var p = await _paymentRepository.GetByProviderIdAsync(pi.Id);

@@ -12,7 +12,7 @@ namespace ShopiSphere.Domain.Entities
         public Guid OrderId { get; set; }
         public Order Order { get; set; }
         public string Provider { get; set; }
-        public Guid ProviderPaymentIntentId { get; set; }
+        public string ProviderPaymentIntentId { get; set; }
         public string Status { get; set; }
         public decimal Amount { get; set; }
         public string Currency {  get; set; }

@@ -10,7 +10,7 @@ namespace ShopiSphere.Application.Interface.Services
     public interface IOrderService
     {
         Task<OrderDTO> CreateFromCartAsync(string annonId);
-        Task<OrderDTO?> GeyByIdAsync(Guid id);
+        Task<OrderDTO?> GetByIdAsync(Guid id);
         Task<IEnumerable<OrderDTO>> GetByAnnonIdAsync(string annonId);
     }
 }

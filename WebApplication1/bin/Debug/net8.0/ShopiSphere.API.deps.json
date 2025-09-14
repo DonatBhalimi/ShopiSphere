@@ -1058,6 +1058,7 @@
       "ShopiSphere.Application/1.0.0": {
         "dependencies": {
           "DocumentFormat.OpenXml": "3.3.0",
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.8",
           "ShopiSphere.Domain": "1.0.0",
           "Stripe.net": "48.4.0"
         },

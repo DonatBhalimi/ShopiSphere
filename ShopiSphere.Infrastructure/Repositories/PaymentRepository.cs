@@ -27,7 +27,7 @@ namespace ShopiSphere.Infrastructure.Repositories
         {
             return _appDbContext.Orders.Include(o => o.Items).FirstOrDefaultAsync(o => o.Id == id);
         }
-        public Task<Payment?> GetByProviderIdAsync(Guid pid)
+        public Task<Payment?> GetByProviderIdAsync(string pid)
         {
             return _appDbContext.Payments.FirstOrDefaultAsync(p => p.ProviderPaymentIntentId == pid);
         }

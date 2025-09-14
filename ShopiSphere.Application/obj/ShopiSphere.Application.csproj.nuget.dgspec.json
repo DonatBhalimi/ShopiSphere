@@ -59,6 +59,10 @@
               "target": "Package",
               "version": "[3.3.0, )"
             },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
             "Stripe.net": {
               "target": "Package",
               "version": "[48.4.0, )"

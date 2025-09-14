@@ -49,7 +49,7 @@ namespace ShopiSphere.Application.Services
             await _orderRepository.SaveChangesAsync();
             return ToDto(order);
         }
-        public async Task<OrderDTO?> GeyByIdAsync(Guid id)
+        public async Task<OrderDTO?> GetByIdAsync(Guid id)
         {
             var o =  await _orderRepository.GetByIdAsync(id);
             return o is null ? null : ToDto(o); 

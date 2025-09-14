@@ -12,6 +12,6 @@ namespace ShopiSphere.Application.Interface.Repositories
         Task AddAsync(Payment p);
         Task SaveAsync();
         Task<Order?> LoadOrderAsync(Guid id);
-        Task<Payment?> GetByProviderIdAsync(Guid id);
+        Task<Payment?> GetByProviderIdAsync(string id);
     }
 }

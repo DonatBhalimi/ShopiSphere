@@ -19,7 +19,7 @@ namespace ShopiSphere.API.Controllers
         [HttpGet("{id:guid}")]
         public async Task<IActionResult> GetById(Guid id)
         {
-            var dto = await _orderService.GeyByIdAsync(id);
+            var dto = await _orderService.GetByIdAsync(id);
             return dto is null ? NotFound() : Ok(dto);
         }
 
